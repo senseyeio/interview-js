@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "w001",
+      "name": "Web-001",
+      "description": "Main web server",
+      "isUp": true,
+      "uptime": 345600,
+      "locationId": "loc1"
+    },
+    {
+      "id": "w002",
+      "name": "Web-002",
+      "description": "Secondary web server",
+      "isUp": true,
+      "uptime": 604800,
+      "locationId": "loc2"
+    },
+    {
+      "id": "db001",
+      "name": "DB-001",
+      "description": "Database server",
+      "isUp": false,
+      "uptime": 0,
+      "locationId": "loc4"
+    },
+    {
+      "id": "db002",
+      "name": "B-002",
+      "description": "Secondary database server",
+      "isUp": true,
+      "uptime": 240,
+      "locationId": "loc5"
+    }
+  ]
+}

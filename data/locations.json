@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "loc1",
+      "name": "Main office",
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "id": "loc2",
+      "name": "Europe HQ",
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "id": "loc3",
+      "name": "US office",
+      "city": "California",
+      "country": "US"
+    },
+    {
+      "id": "loc4",
+      "name": "Data center",
+      "city": "Dublin",
+      "country": "Ireland"
+    },
+    {
+      "id": "loc5",
+      "name": "Distribution center",
+      "city": "Bristol",
+      "country": "UK"
+    }
+  ]
+}
