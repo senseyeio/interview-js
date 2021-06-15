@@ -2,6 +2,7 @@
   "name": "interview-js",
   "version": "1.0.0",
   "scripts": {
+    "start": "npm test",
     "test": "jest"
   },
   "dependencies": {
