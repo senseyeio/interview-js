@@ -8,15 +8,15 @@ Please run through the tasks below and be as vocal as you can during this 30 min
 
 Feel free to ask questions or Google things at any point.
 
-The documentation for the included `node-fetch` library can be found at https://www.npmjs.com/package/node-fetch
+The documentation for the included `node-fetch` library can be found at https://www.npmjs.com/package/node-fetch.
 
 ## Instructions
 
-Clone the repo, install dependencies with `npm install` or `yarn`
-  - Alternatively, you can work on the project online using Stackblitz: https://stackblitz.com/github/senseyeio/interview-js
+1. Clone the repo, install dependencies with `npm install` or `yarn`.
+    - Alternatively, you can work on the project online using Stackblitz: https://stackblitz.com/github/senseyeio/interview-js.
 
-Run the tests with `npm test` or `yarn test`.
+2. Run the tests with `npm test` or `yarn test`.
 
-Open `src/main.js`. The goal is to make all of the tests pass.
-
-The tasks are specified as comments in `src/main.js`.
+3. Open `src/main.js`. The goal is to make all of the tests pass.
+    - The tasks are specified as comments in `src/main.js`.
+    - The expected test output is in `src/main.spec.js`.
