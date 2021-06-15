@@ -15,8 +15,9 @@ The documentation for the included `node-fetch` library can be found at https://
 1. Clone the repo, install dependencies with `npm install` or `yarn`.
     - Alternatively, you can work on the project online using Stackblitz: https://stackblitz.com/github/senseyeio/interview-js.
 
-2. Run the tests with `npm test` or `yarn test`.
-
-3. Open `src/main.js`. The goal is to make all of the tests pass.
+2. Open `src/main.js`. The goal is to make all of the tests pass.
     - The tasks are specified as comments in `src/main.js`.
     - The expected test output is in `src/main.spec.js`.
+
+3. Run the tests with `npm test` or `yarn test`.
+    - You can run individual tests with `npm run test1`, `npm run test2` etc... (or `yarn test1`, `yarn test2` etc...)

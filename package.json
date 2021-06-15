@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "scripts": {
     "start": "npm test",
-    "test": "jest"
+    "test": "jest",
+    "task1": "jest -t 'Task 1'",
+    "task2": "jest -t 'Task 2'",
+    "task3": "jest -t 'Task 3'",
+    "task4": "jest -t 'Task 4'",
+    "task5": "jest -t 'Task 5'"
   },
   "dependencies": {
     "node-fetch": "^2.6.1"
