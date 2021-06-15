@@ -8,6 +8,8 @@ Please run through the tasks below and be as vocal as you can during this 30 min
 
 Feel free to ask questions or Google things at any point.
 
+The documentation for the included `node-fetch` library can be found at https://www.npmjs.com/package/node-fetch
+
 ## Instructions
 
 Clone the repo, install dependencies with `npm install` or `yarn`
