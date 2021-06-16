@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 
 // ----- TASK 1 -----
 // - Fetch the list of servers from the following URL: https://raw.githubusercontent.com/senseyeio/interview-js/main/data/servers.json
@@ -30,10 +29,19 @@ export async function task3() {
 
 // ----- TASK 4 -----
 // - Fetch all servers and locations
-// - Return an array of objects, where each contains:
-//   - the `id`, `name` and `isUp` properties of the server
-//   - the `city` name for that server's location
-// See the test for an example of the expected data structure
+// - For each server, build a summary object combining the id, name and isUp properties of the server
+//   with the name & city properties from the server's location.
+//   
+//   For example:
+//   {
+//     "id": "w001",                  // from server.id
+//     "name": "Web-001",             // from server.name
+//     "isUp": true,                  // from server.isUp
+//     "locationName": "Main office", // from location.name
+//     "city": "London"               // from location.city
+//   }
+// 
+// - Return the array of summary objects (see test for full expected response)
 
 export async function task4() {
   throw new Error("TODO: Not yet implemented");
