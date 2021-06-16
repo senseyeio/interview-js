@@ -17,7 +17,7 @@ describe('Task 2',  () => {
           name: 'B-002',
           description: 'Secondary database server',
           isUp: true,
-          uptime: 240,
+          uptimeMinutes: 240,
           locationId: 'loc5'
         },
         {
@@ -25,7 +25,7 @@ describe('Task 2',  () => {
           name: 'Web-001',
           description: 'Main web server',
           isUp: true,
-          uptime: 345600,
+          uptimeMinutes: 345600,
           locationId: 'loc1'
         },
         {
@@ -33,7 +33,7 @@ describe('Task 2',  () => {
           name: 'Web-002',
           description: 'Secondary web server',
           isUp: true,
-          uptime: 604800,
+          uptimeMinutes: 604800,
           locationId: 'loc2'
         }
       ]
