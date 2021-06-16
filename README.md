@@ -20,4 +20,4 @@ The documentation for the included `node-fetch` library can be found at https://
     - The expected test output is in `src/main.spec.js`.
 
 3. Run the tests with `npm test` or `yarn test`.
-    - You can run individual tests with `npm run test1`, `npm run test2` etc... (or `yarn test1`, `yarn test2` etc...)
+    - You can run individual tests with `npm run task1`, `npm run task2` etc... (or `yarn task1`, `yarn task2` etc...)
