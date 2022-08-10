@@ -1,3 +1,5 @@
+// import fetch from 'node-fetch';
+
 
 // ----- TASK 1 -----
 // - Fetch the list of servers from the following URL: https://raw.githubusercontent.com/senseyeio/interview-js/main/data/servers.json
